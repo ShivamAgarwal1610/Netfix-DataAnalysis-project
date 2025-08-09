@@ -2,6 +2,7 @@ Netflix Data Analysis
 
 This project analyzes Netflix movies and TV shows to uncover trends in genres, popularity, ratings, and release years. It involves data cleaning, categorization, and visualization using Python libraries such as Pandas, NumPy, and Matplotlib/Seaborn.
 
+
 📌 Project Overview
 The goal of this project is to:
 
@@ -12,6 +13,7 @@ Categorize movies based on vote averages into descriptive groups.
 Visualize popularity trends, genres, and release years.
 
 Answer specific questions related to content performance.
+
 
 📂 Dataset
 The dataset contains details such as:
