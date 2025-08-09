@@ -62,7 +62,7 @@ The notebook includes:
 - **Yearly Content Releases** 📅  
 - **Vote Average Categories** 🏆  
 
-*(Add screenshots of graphs here for better presentation)*
+
 
 ---
 
