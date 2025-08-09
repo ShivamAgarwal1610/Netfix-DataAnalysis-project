@@ -39,6 +39,7 @@ Matplotlib / Seaborn – Data visualization
 
 Jupyter Notebook – Interactive analysis
 
+
 📊 Key Analysis
 Most Frequent Genre – Drama appears most often, with over 14% of the dataset.
 
@@ -49,6 +50,7 @@ Most Popular Movie – Spider-Man: No Way Home (Genres: Action, Adventure, Scien
 Least Popular Movie – The United States vs. Billie Holiday (Genres: Music, Drama, War, History, Sci-Fi, Horror).
 
 Year with Most Films – 2020 had the highest filming rate.
+
 
 📈 Visualizations
 The project includes:
