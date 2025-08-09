@@ -7,8 +7,11 @@ This project analyzes Netflix movies and TV shows to uncover trends in genres, p
 The goal of this project is to:
 
 Explore Netflix's dataset and identify key patterns in content.
+
 Categorize movies based on vote averages into descriptive groups.
+
 Visualize popularity trends, genres, and release years.
+
 Answer specific questions related to content performance.
 
 
